@@ -1,0 +1,33 @@
+#wave-slider-list {
+    margin-top: 20px;
+    padding: 0;
+}
+
+#wave-slider-list li {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 8px;
+    margin-bottom: 10px;
+    cursor: grab;
+}
+
+#wave-slider-list .thumb {
+    width: 90px;
+    height: 70px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
+
+.wave-placeholder {
+    height: 80px;
+    background: #e3f4ff;
+    border: 2px dashed #007cba;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
