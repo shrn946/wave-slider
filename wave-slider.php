@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Wave Slider Pro
+Plugin Name: Wave Animations Image Slider
 Description: Wave-style slider with image upload, thumbnails, reorder, remove + shortcode [wave_slider]
 Version: 3.0
-Author: Hassan Dev
+Author:WP Design Lab
 */
 
 if (!defined('ABSPATH')) exit;
